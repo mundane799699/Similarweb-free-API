@@ -82,3 +82,6 @@ logs/
 *.sqlite3
 data/
 output/
+
+# Generated output from similar.py (e.g. <SiteName>.json)
+*.json
